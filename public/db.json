@@ -1,0 +1,152 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "username": "admin",
+        "password": "Admin@123",
+        "role": "admin",
+        "email": "admin@example.com"
+      },
+      {
+        "id": "7e28",
+        "username": "karabo",
+        "email": "karabo@gmail.com",
+        "password": "Qwerty@1234",
+        "role": "user"
+      },
+      {
+        "id": "512f",
+        "username": "john",
+        "email": "john@g.m",
+        "password": "Qwerty@1234",
+        "role": "user"
+      },
+      {
+        "id": "e194",
+        "username": "disha",
+        "email": "disha1@nagarro.com",
+        "password": "Qwerty@1234",
+        "role": "user"
+      }
+    ],
+    "tasks": [
+      {
+        "id": "1",
+        "userId": 2,
+        "title": "Complete Angular project",
+        "description": "Finish the task manager application",
+        "dueDate": "2024-09-24T00:00:00.000Z",
+        "priority": "high",
+        "status": "in-progress",
+        "categories": []
+      },
+      {
+        "id": "1424",
+        "categories": [],
+        "dueDate": "2024-09-10T00:00:00.000Z",
+        "title": "Food",
+        "description": "plate",
+        "priority": "high",
+        "userId": "c601"
+      },
+      {
+        "id": "861b",
+        "categories": [],
+        "dueDate": "2024-09-18T00:00:00.000Z",
+        "title": "d",
+        "description": "a",
+        "priority": "medium",
+        "userId": null
+      },
+      {
+        "id": "1e50",
+        "categories": [],
+        "dueDate": "2024-09-20T00:00:00.000Z",
+        "title": "sd",
+        "description": "df",
+        "priority": "high",
+        "userId": null
+      },
+      {
+        "id": "7770",
+        "categories": [],
+        "dueDate": "2024-09-24T00:00:00.000Z",
+        "priority": "low",
+        "description": "sdsd",
+        "title": "qde",
+        "userId": null
+      },
+      {
+        "id": "a07d",
+        "categories": [],
+        "dueDate": "2024-09-27T00:00:00.000Z",
+        "title": "edfs",
+        "description": "dsfgdb",
+        "priority": "low",
+        "userId": null
+      },
+      {
+        "id": "2566",
+        "categories": [],
+        "dueDate": "2024-10-03T00:00:00.000Z",
+        "title": "sdfgdhfnj",
+        "description": "adsfgdh",
+        "priority": "high",
+        "userId": null
+      },
+      {
+        "id": "1243",
+        "categories": [],
+        "dueDate": "2024-09-26T00:00:00.000Z",
+        "title": "Mr",
+        "description": "MIsss",
+        "priority": "high",
+        "userId": null
+      },
+      {
+        "id": "7ba7",
+        "categories": [],
+        "dueDate": "2024-09-18T00:00:00.000Z",
+        "title": "Food",
+        "description": "snacks",
+        "priority": "medium",
+        "userId": "e194"
+      },
+      {
+        "id": "3056",
+        "categories": [],
+        "dueDate": "2024-09-25T00:00:00.000Z",
+        "description": "one",
+        "title": "drinks",
+        "priority": "high",
+        "userId": "e194"
+      },
+      {
+        "id": "2039",
+        "categories": [],
+        "dueDate": "2024-09-18T00:00:00.000Z",
+        "title": "south",
+        "description": "africa",
+        "priority": "medium",
+        "userId": "e194"
+      },
+      {
+        "id": "8071",
+        "categories": [],
+        "dueDate": "2024-09-23T00:00:00.000Z",
+        "title": "mr",
+        "description": "bean",
+        "priority": "low",
+        "userId": "e194"
+      },
+      {
+        "id": "1b1f",
+        "categories": [],
+        "dueDate": "2024-09-26T00:00:00.000Z",
+        "title": "scooby",
+        "description": "doo",
+        "priority": "low",
+        "userId": "e194"
+      }
+    ]
+  }
